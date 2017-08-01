@@ -1,5 +1,5 @@
 # Lay-friendly template for clinical study landing pages
-This repository contains the HTML and CSS code used for the new study pages for the Clinical Studies Directory at USC. These new pages were created to be lay-friendly and clearly convey all the information about a study to a potential participant. 
+This repository contains the HTML and CSS code used for the study pages of the [Clinical Studies Directory](http://clinicaltrials.keckmedicine.org) at the University of Southern California (USC). These pages were designed to provide a clear and lay-friendly format for describing clinical studies to engage prospective study participants online. 
 
 Below is a screenshot of a study page for a Parkinson's study created using this study template:
 
